@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @raph-denis
+- 👀 I’m interested in neuroscience 🧠 
+- 🌱 I’m currently learning how to code to be able to analyse neurons
